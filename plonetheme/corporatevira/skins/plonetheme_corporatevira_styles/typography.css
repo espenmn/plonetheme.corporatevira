@@ -1,8 +1,4 @@
-/* The browser's default font size is typically 16px (for PCs). We'll resize 
-each of the header elements accordingly. Our target line height will be 18px */
-
-/* Set base font size to 12px (12/16 = 0.75) */
-/* Adjust leading: 18/12 = 1.5 */
+ 
 body
 	{
 	font-size: 0.75em;
@@ -169,13 +165,12 @@ input.searchButton
 	border-width: 0em;	
 	font-size: 1.167em;
 	line-height: 1.285;		
-	margin: 0.6425em 0em 0.6425em 0em;
+	margin: 1.5em 0em 0.6425em 0em;
 	}
 
 #portal-personaltools li a
 	{
 	font-size: 1em;
-	line-height: 3; 
 	}
 
 #portal-breadcrumbs
@@ -374,3 +369,5 @@ dl.portalMessage
 	margin-bottom: 2.25em;
 	}
 	
+ 
+
