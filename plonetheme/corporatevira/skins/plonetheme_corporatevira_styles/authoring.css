@@ -105,6 +105,10 @@
     position: relative;
     z-index: 10;
 }
+
+#contentActionMenus a {
+	color:  black;
+}
 .actionMenu .actionMenuHeader a {
     display: block;
     color: #a7bdd5;
@@ -159,6 +163,8 @@
     margin: 0.2em 0;
     padding:  1px 3px;
 }
+
+
 .actionMenu .actionMenuContent .selected {
     display: block;
     white-space: nowrap;
